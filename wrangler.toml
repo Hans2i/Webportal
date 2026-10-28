@@ -1,4 +1,4 @@
-name = "portal-kartu-ucapan"
+name = "Webportal"
 main = "src/worker.js"
 compatibility_date = "2025-09-01"
 
