@@ -13,4 +13,4 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "portal-kartu"
-database_id = "GANTI-DENGAN-ID-DATABASE-D1"
+database_id = "bedcdef2-8a9c-49d0-b24f-9c05217f73e9"
